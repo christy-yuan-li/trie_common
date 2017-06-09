@@ -1,1 +1,1 @@
-pip install marisa_trie
+python3.6 -m pip install marisa_trie
